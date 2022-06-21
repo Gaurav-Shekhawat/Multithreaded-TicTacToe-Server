@@ -100,6 +100,20 @@ This pool of threads will continuously be checking the queue for requests even w
 Now, whenever a thread finds that the queue is empty, it will stop there and wait. Now, whenever a new request arrive, the condition variable will signal the thread to start executing again. This helps in the reduction of a lot of CPU usage.
 
 
+## Learning Takeaways
+With the help of this project, I got to know about several important networking concepts which include-  
+* `Socket Programming`
+* `Threads` and `Mutex`
+* `Multithreaded Servers`
+
+
+I also got to explore some game theory algorithms, including `MiniMax` algorithm, which I have used in this project. Overall the whole project was a very fulfilling experience.
+
+## Demo
+
+[Demo video](https://drive.google.com/file/d/1yEQhKmtnKDuGwDiPhwPZsb29cjS-LNaz/view?usp=sharing)
+
+
 
 ## Resources used
 * [Thread functions](https://www.geeksforgeeks.org/thread-functions-in-c-c/)

@@ -5,10 +5,12 @@
 2. [Getting Started](#getting-started)
     - [Requirements](#requirements)
     - [Installation](#installation)
+
 3. [Working](#working)
-    -[The Server](#the-server)
-    -[The Client](#the-client)
+   * [The Server](#the-server)
+   * [The Client](#the-client)
 4. [Implementation details](#implementation-details)
+
 5. [Resources used](#resources-used)
 
 ## Overview
